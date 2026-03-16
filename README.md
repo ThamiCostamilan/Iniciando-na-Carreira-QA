@@ -113,18 +113,18 @@ O ideal é começar pelo fundamento da qualidade de software.
 
 Aqui vão alguns bons pontos de partida:  
 
-- **Fundamentos de Teste de Software** 
+🔸 **Fundamentos de Teste de Software** 
   Aprender conceitos como:   
-🔸 O que é um bug  
-🔸 O que é um caso de teste   
-🔸 Tipos de teste (funcional, regressão, exploratório, etc.)  
+- O que é um bug  
+- O que é um caso de teste   
+- Tipos de teste (funcional, regressão, exploratório, etc.)  
 
-- **Lógica de testes** 
+🔸 **Lógica de testes** 
   Aprender a pensar em cenários diferentes e possibilidades de erro. Por mais que seja estranho, é bom 
 “estudar” cenários loucos e diferentes. O caminho feliz é o básico, mas e os outros?! Quando começa a se soltar 
 nessa parte, você começa a fazer mil e um cenários.  
 
-- **Testes manuais**   
+🔸 **Testes manuais**   
    Antes de pensar em automatizar, é importante aprender a testar sistemas manualmente. Automação é a última 
 parte de testes que você pode querer aprender. Ela é importante? Sim! Mas totalmente desnecessária de começo, 
 principalmente se a pessoa não conhece os fundamentos básicos de testes. Não adianta querer automatizar um 
@@ -132,14 +132,14 @@ sistema se não se entende o básico da lógica dele, das regras de negócio das
 principais e os que não são necessários. Querer automatizar antes de entender o básico sobre testes é enfiar os pés 
 pelas mãos, e é aí que pode também surgir a frustração.  
 
-- **Metodologias ágeis**   
+🔸 **Metodologias ágeis**   
    QA normalmente trabalha dentro de times que usam Scrum ou Kanban. Essas são as duas metodologias usadas 
 no meio de desenvolvimento, tanto Brasil quanto Latam. São meios fáceis de se organizar, com o seu time, com as 
 suas tarefas perante a empresa. O nome talvez assuste, ou fique um pouco vago, mas essa é sem dúvida alguma a 
 parte mais importante de qualquer processo de aprendizado da área tech. Seja QA, seja desenvolvedor, seja banco 
 de dados. Sem essas metodologias não há organização, e isso é de extrema importância pra área.  
 
-- **Ferramentas de QA**   
+🔸 **Ferramentas de QA**   
     Uma ferramenta muito usada, e que eu recomendo para estudo de início, é o Postman (para testar APIs). Essa é 
 uma parte importante e muito requisitada pelas empresas, mesmo para iniciantes. APIs são um ponto de extrema 
 importância em um software, aprender sobre elas e suas várias vertentes pode te levar longe e fazer crescer rápido. 
