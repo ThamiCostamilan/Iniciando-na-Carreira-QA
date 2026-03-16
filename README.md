@@ -165,5 +165,5 @@ E o melhor: todo sistema tem bugs. Então… **trabalho nunca vai faltar**!
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📝 Escrito por: Thamiris Costamilan, QA Analista e Fundadora da QA Astra  
-Instagram: [@qastra.tech](https://www.instagram.com/qastra.tech) 
-LinkedIn: [Thamiris Costamilan](https://www.linkedin.com/in/thamiris-costamilan/)
+
+⚠️ Conteúdo produzido **sem** ajudda de IA ⚠️
