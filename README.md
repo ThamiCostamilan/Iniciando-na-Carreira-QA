@@ -4,7 +4,7 @@ Se você quer entrar na área de QA, mas não sabe por onde começar, esse guia 
 
 Aqui você vai encontrar:  
 🔸 O que é o QA  
-🔸 O que faz um QA
+🔸 O que faz um QA  
 🔸 Perfil Profissional  
 🔸 Ferramentas usadas e o que estudar
 
