@@ -9,6 +9,7 @@ Aqui você vai encontrar:
 🔸 Ferramentas usadas e o que estudar
 
 
+
 ## **O que é o QA?**  
 
 QA é a sigla para **Quality Assurance**, que em português significa **Garantia da Qualidade**.  
@@ -26,6 +27,7 @@ Ou seja, o QA ajuda o time a evitar problemas antes que eles cheguem no usuário
 Resumindo:  
 QA é a pessoa que ajuda o time a entregar software que realmente funciona e que não passa vergonha em 
 produção.  
+
 
 
 ## **O que faz o QA?**  
@@ -59,6 +61,7 @@ Por isso um bom QA **não tem medo de soltar a imaginação**, as formas de test
 sentido na sua própria cabeça.  
 
 
+
 ## **Como é o Perfil Profissional de um QA?**  
 
 O QA não precisa ser um gênio da programação (apesar de que para algumas vertentes da profissão, isso 
@@ -66,30 +69,30 @@ ajuda bastante), mas precisa ter algumas características muito importantes.
 
 Algumas delas são:  
 
- **Ser curioso**   
+🔸 **Ser curioso**   
 QA adora entender como as coisas funcionam e vive perguntando "e se...?". É como se fosse aquelas 
 crianças que estão crescendo e estão na fase de perguntar “como isso funciona?”, “porque?”, “mas e se eu 
 fizer de outra forma?”. É exatamente assim.  
 
- **Ser analítico**   
+🔸 **Ser analítico**   
 Precisa olhar para detalhes que muitas pessoas deixam passar. Seja intuitivo. Está sentindo que tem algo 
 errado na tela, ou no sistema? Insista um pouco que você consegue encontrar o que está de errado.  
 
- **Gostar de caçar bugs**   
+🔸 **Gostar de caçar bugs**   
 Encontrar erro vira quase um esporte. (A minha parte favorita)  
 
- **Saber se comunicar bem**   
+🔸 **Saber se comunicar bem**   
 Porque quando encontra um problema, precisa explicar claramente para o time o que aconteceu. Ou 
 quando você ainda não entende muito bem a regra de negócio daquela tela, precisará entrar em contato 
 com o dev, ou até mesmo o P.O para poder tirar suas dúvidas. Então a comunicação precisa ser clara.  
 
- **Ser organizado**   
+🔸 **Ser organizado**   
 Muitos testes, cenários, evidências e documentações precisam ser bem **registradas**. Não pode ter preguiça 
 de escrever documentos e colocar evidências. Quanto mais evidências, melhor. Quanto mais detalhes do 
 que está acontecendo, mais fácil fica para o desenvolvedor identificar e corrigir com mais agilidade e 
 facilidade.  
 
- **Ter pensamento crítico**   
+🔸 **Ter pensamento crítico**   
 QA não aceita qualquer resposta fácil. Ele sempre pensa: 
 "Mas será que isso cobre todos os casos?". Não pode ter medo de perguntar e confrontar o desenvolvedor. 
 **Não é brigar ou entrar em conflito**. É fazer perguntas o suficiente para que os dois pensem juntos em 
@@ -98,6 +101,7 @@ todos os cenários possíveis de erros.
   No fundo, o QA é uma pessoa que tem um radar natural para problemas.  
   Sabe aquela pessoa que percebe quando algo está estranho?  
   Essa pessoa provavelmente daria um bom QA!  
+
 
 
 ## **O que começar a estudar para a área?**  
@@ -140,6 +144,7 @@ de dados. Sem essas metodologias não há organização, e isso é de extrema im
 uma parte importante e muito requisitada pelas empresas, mesmo para iniciantes. APIs são um ponto de extrema 
 importância em um software, aprender sobre elas e suas várias vertentes pode te levar longe e fazer crescer rápido. 
 Além de ser um diferencial no currículo.  
+
 
 
 ## 💡 **Dicas finais para quem quer entrar na área**  
