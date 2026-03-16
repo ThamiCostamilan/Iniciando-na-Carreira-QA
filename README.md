@@ -8,9 +8,9 @@ Aqui você vai encontrar:
 🔸 Perfil Profissional  
 🔸 Ferramentas usadas e o que estudar
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-## **O que é o QA?**  
+## 📌 **O que é o QA?**  
 
 QA é a sigla para **Quality Assurance**, que em português significa **Garantia da Qualidade**.  
 
@@ -28,9 +28,9 @@ Resumindo:
 QA é a pessoa que ajuda o time a entregar software que realmente funciona e que não passa vergonha em 
 produção.  
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-## **O que faz o QA?**  
+## 📌 **O que faz o QA?**  
 
  O QA é tipo um detetive. Ele investiga o sistema inteiro tentando descobrir onde as coisas podem quebrar.  
  
@@ -60,9 +60,9 @@ quebrar o sistema, **o usuário vai encontrar**. Então o QA tenta encontrar pri
 Por isso um bom QA **não tem medo de soltar a imaginação**, as formas de testar, as estratégias que só fazem 
 sentido na sua própria cabeça.  
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-## **Como é o Perfil Profissional de um QA?**  
+## 📌 **Como é o Perfil Profissional de um QA?**  
 
 O QA não precisa ser um gênio da programação (apesar de que para algumas vertentes da profissão, isso 
 ajuda bastante), mas precisa ter algumas características muito importantes.  
@@ -102,9 +102,9 @@ todos os cenários possíveis de erros.
   Sabe aquela pessoa que percebe quando algo está estranho?  
   Essa pessoa provavelmente daria um bom QA!  
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-## **O que começar a estudar para a área?**  
+## 📌 **O que começar a estudar para a área?**  
   
 Se alguém quer começar na área de QA, não precisa sair estudando mil linguagens de programação logo de 
 cara. Eu (particularmente) acho que não é o ideal.  
@@ -145,7 +145,7 @@ uma parte importante e muito requisitada pelas empresas, mesmo para iniciantes. 
 importância em um software, aprender sobre elas e suas várias vertentes pode te levar longe e fazer crescer rápido. 
 Além de ser um diferencial no currículo.  
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💡 **Dicas finais para quem quer entrar na área**  
 
@@ -162,3 +162,8 @@ legal.
 
 E o melhor: todo sistema tem bugs. Então… **trabalho nunca vai faltar**!
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📝 Escrito por: Thamiris Costamilan, QA Analista e Fundadora da QA Astra  
+Instagram: [@qastra.tech](https://www.instagram.com/qastra.tech) 
+LinkedIn: [Thamiris Costamilan](https://www.linkedin.com/in/thamiris-costamilan/)
