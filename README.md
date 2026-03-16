@@ -113,8 +113,8 @@ O ideal é começar pelo fundamento da qualidade de software.
 
 Aqui vão alguns bons pontos de partida:  
 
-🔸 **Fundamentos de Teste de Software** 
-  Aprender conceitos como:   
+🔸 **Fundamentos de Teste de Software**  
+  Aprender conceitos como:  
 - O que é um bug  
 - O que é um caso de teste   
 - Tipos de teste (funcional, regressão, exploratório, etc.)  
